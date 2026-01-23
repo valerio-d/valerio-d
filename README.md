@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there 👋<br><br>🔭 I’m currently working on a productivity Chrome extension and a desktop Python assistant — both aimed at making everyday tasks smoother and faster.<br><br>👯 I’m looking to collaborate with people who can guide or work with me in education-related projects — or anyone open to helping (and maybe hiring!) a student eager to grow.<br><br>🌱 I’m currently learning Python voice recognition, text-to-speech, and how to build powerful Chrome extensions.
+Hey there 👋<br><br>🔭 I’m currently working on a productivity Chrome extension and a desktop Python voice assistant — both aimed at making everyday tasks smoother and faster.<br><br>👯 I’m looking to collaborate with people who can guide or work with me in education-related projects — or anyone open to helping (and maybe hiring!) a student eager to grow.<br><br>🌱 I’m currently learning Python voice recognition, text-to-speech, and how to build powerful Chrome extensions.
 
 
 # 💻 Tech Stack:
